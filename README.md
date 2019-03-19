@@ -44,7 +44,7 @@ Créer une `Interfaces` qui va prendre les mêmes attributs qui votre classe `Pe
 
 Puis implémenter votre `Interfaces` à votre classe `Person`.
 
-#### Etape 5
+#### Etape 4
 
 Créer un formulaire dans votre `index.html` ou il y aura 3 inputs (`first_name`, `last_name`, `age`).
 
